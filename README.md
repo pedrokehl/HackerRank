@@ -1,6 +1,6 @@
 ![alt text](https://hrcdn.net/hackerrank/assets/brand/wordmark_sm-09bbe8f2de9af754be97250046007ced.svg "HackerRank Logo")
 
-My solutions to [HackerRank](https://www.hackerrank.com.br) problems.
+My solutions to [HackerRank](https://www.hackerrank.com) problems.
 
 ## Domains
 
