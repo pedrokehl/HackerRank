@@ -1,6 +1,7 @@
-makingAnagrams('cde', 'abc');
+var result = wordsToRemove('cde', 'abc');
+console.log(result);
 
-function makingAnagrams(a, b) {
+function wordsToRemove(a, b) {
     var bLength = b.length;
     var aLength = a.length;
 
@@ -19,9 +20,5 @@ function makingAnagrams(a, b) {
         }
     }
 
-    console.log(totalToRemove);
+    return totalToRemove;
 }
-
-
-
-

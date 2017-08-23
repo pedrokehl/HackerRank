@@ -6,4 +6,4 @@ My solutions to [HackerRank](https://www.hackerrank.com) problems.
 
 |Domain|Status|Last Updated|
 |---|---|---|
-|Cracking the Coding Interview|2 / 9|4/29/2017|
+|Cracking the Coding Interview|4 / 9|8/23/2017|
